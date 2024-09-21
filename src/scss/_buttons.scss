@@ -1,0 +1,19 @@
+
+.btn {
+    border-radius: 4px;
+    font-size: 14px;
+}
+.btn-sm {    
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: 13px;
+}
+
+.btn-green {
+    background-color: $green_color;
+    color: #fff;
+}
+.btn-light-green {
+    background-color: $light_green;
+    color: $green_color;
+}

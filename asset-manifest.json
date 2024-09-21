@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deepak-crazy/grocery-dep.git/static/css/main.10e2fd08.css",
+    "main.js": "/deepak-crazy/grocery-dep.git/static/js/main.7036b5e8.js",
+    "static/js/453.d15d9776.chunk.js": "/deepak-crazy/grocery-dep.git/static/js/453.d15d9776.chunk.js",
+    "index.html": "/deepak-crazy/grocery-dep.git/index.html",
+    "main.10e2fd08.css.map": "/deepak-crazy/grocery-dep.git/static/css/main.10e2fd08.css.map",
+    "main.7036b5e8.js.map": "/deepak-crazy/grocery-dep.git/static/js/main.7036b5e8.js.map",
+    "453.d15d9776.chunk.js.map": "/deepak-crazy/grocery-dep.git/static/js/453.d15d9776.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10e2fd08.css",
+    "static/js/main.7036b5e8.js"
+  ]
+}
